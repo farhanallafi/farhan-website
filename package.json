@@ -1,0 +1,16 @@
+{
+  "name": "farhan-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Farhanmm",
+  "license": "ISC",
+  "homepage":"https://farhanmatar.github.io/farhan-website",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
